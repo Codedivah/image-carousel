@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="container">
-      {index}
+      
       <h1>Image Carousel</h1>
       <div className="carousel">
         <div className="img-box">
